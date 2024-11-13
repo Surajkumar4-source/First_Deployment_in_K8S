@@ -87,9 +87,82 @@ kubectl get pods -o wide
 
 ```
 
+
+
 ## Explanation of Scaling
 - Scaling Up: Creates more pods to distribute the load and ensure high availability.
 - Scaling Down: Reduces the number of running pods, saving resources when demand is lower.
 
 
 *This setup deploys a scalable HTTPD server accessible from outside the cluster, allowing you to manage the web server load efficiently.*
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/3.png)
+
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/4.png)
+
+4.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/5.png)
+
+5.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/6.png)
+
+
+6.
+<br>
+<br>
+
+
+
+![Alt text for image](screenshots/7.png)
+
+
+7.
+<br>
+
+### Final Output: *at localhost*
+
+<br>
+
+
+
+![Alt text for image](screenshots/2.png)
+
